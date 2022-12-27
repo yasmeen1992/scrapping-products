@@ -1,2 +1,0 @@
-spreadsheet_key = '1kjNsFdZgiQd8mlwVzq13qgxDXdzIxu-EnxwNytu-fQk'
-      '18Y4IDmA8ORUpSxzgV6NOg92ZAKzZ9uqbUTYYrI_lFZI',
